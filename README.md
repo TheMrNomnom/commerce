@@ -7,7 +7,7 @@ This is a Django web application for online auctions. Users can create listings,
 1. Clone the repository:
 
 ```
-git clone <repository_url>
+git clone https://github.com/TheMrNomnom/commerce.git
 ```
 
 2. Navigate to the project directory:
